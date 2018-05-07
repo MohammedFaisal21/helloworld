@@ -1,4 +1,4 @@
 # helloworld
 Helloworld
-iam learning hiw to use git hub 
-fir the first time
+iam learning how to use git hub 
+for the first time
